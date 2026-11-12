@@ -1,0 +1,65 @@
+{
+  "tracks" : [ {
+    "artist" : "Wallie the Sensei",
+    "album" : "03 Flow",
+    "track" : "03 Flow",
+    "uri" : "spotify:track:07Dl4juXkxpZ7zbwKKOu7N"
+  }, {
+    "artist" : "Olivia Dean",
+    "album" : "Messy",
+    "track" : "The Hardest Part",
+    "uri" : "spotify:track:3cPoiK69oQ1SdbB2j2ulGm"
+  }, {
+    "artist" : "Migos",
+    "album" : "Culture II",
+    "track" : "Too Playa",
+    "uri" : "spotify:track:4TAifFqlNkBvrycHbWV9Ew"
+  } ],
+  "albums" : [ {
+    "artist" : "Various Artists",
+    "album" : "Spider-Man: Into the Spider-Verse",
+    "uri" : "spotify:album:35s58BRTGAEWztPo9WqCIs"
+  }, {
+    "artist" : "Drake",
+    "album" : "100 GIGS",
+    "uri" : "spotify:album:0FYZn1AI7Fly7H25Vykc64"
+  } ],
+  "shows" : [ {
+    "name" : "Philosophize This!",
+    "publisher" : "Stephen West",
+    "uri" : "spotify:show:2Shpxw7dPoxRJCdfFXTWLE"
+  }, {
+    "name" : "The Joe Rogan Experience",
+    "publisher" : "Joe Rogan",
+    "uri" : "spotify:show:4rOoJ6Egrf8K2IrywzwOMk"
+  }, {
+    "name" : "The Psychology of your 20s",
+    "publisher" : "iHeartPodcasts",
+    "uri" : "spotify:show:2HGcJRYrjGnpce6bRp8UXm"
+  } ],
+  "episodes" : [ {
+    "name" : "Ep 628 - Guys Trip 2022 (feat. Chris O'Connor & Billy)",
+    "show" : "Matt and Shane's Secret Podcast",
+    "uri" : "spotify:episode:3CaCiJNzre9hfxMu41XEYy"
+  } ],
+  "bannedTracks" : [ ],
+  "artists" : [ ],
+  "bannedArtists" : [ {
+    "name" : "David Angus",
+    "uri" : "spotify:artist:0W3tgjpbYSISL1C7qKBS2z"
+  } ],
+  "pageMatch" : [ ],
+  "kallaxes" : [ ],
+  "other" : [ ],
+  "parentAllowedTracks" : [ ],
+  "parentAllowedArtists" : [ ],
+  "parentAllowedShows" : [ ],
+  "podcastChapters" : [ ],
+  "parentAllowIntentTracks" : [ ],
+  "parentAllowIntentAlbums" : [ ],
+  "parentAllowIntentShows" : [ ],
+  "followedAuthors" : [ ],
+  "savedConcerts" : [ ],
+  "savedVenues" : [ ],
+  "savedConcertCampaigns" : [ ]
+}
